@@ -3,8 +3,8 @@
 name: SomfyProtect2MQTT
 version: 2025.3.0
 slug: somfy-protect-2-mqtt
-description: Publish Somfy Home Alarm as MQTT messages
-url: https://github.com/Minims/homeassistant-addons/tree/main/SomfyProtect2MQTT
+description: Publish Somfy Home Alarm as MQTT messages for 32bit
+url: https://github.com/kcirtap86/homeassistant-addons/tree/32bit/SomfyProtect2MQTT
 services:
   - mqtt:need
 arch:
